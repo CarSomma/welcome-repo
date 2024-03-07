@@ -1,1 +1,2 @@
-# test-repo
+# WELCOME
+Welcome to SPICED
